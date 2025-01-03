@@ -1,3 +1,0 @@
-project                     branch
------------------------------------------
-1.scanventory --> scanventory_privacypolicy
